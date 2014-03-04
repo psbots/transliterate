@@ -1,0 +1,12 @@
+{
+  "name": "transliterateindia",
+  "title": "TransliterateIndia",
+  "id": "jid1-NGjBlgkmByhQxg",
+  "description": "A basic add-on to transliterate text from one language to another. Currently supports Hindi, Malayalam, Tamil, Telugu, Bengali, Oriya, Gujarati, Punjabi and Kannada",
+  "author": "Praveen Sridhar",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions" : {
+  "cross-domain-content": ["http://dev.silpa.org.in/JSONRPC"]
+}
+}
